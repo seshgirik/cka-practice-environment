@@ -2,7 +2,7 @@
 
 ## Getting the environment up and ready
 
-Make sure that you have docker-compose installed([installation instructions](https://docs.docker.com/compose/install/)).
+Make sure that you have docker-compose installed ([installation instructions](https://docs.docker.com/compose/install/)).
 
 To start the lab environment you can do either of the following two:
 * To use the prebuilt images run: `docker-compose up -d` and point your browser to `http://localhost`
